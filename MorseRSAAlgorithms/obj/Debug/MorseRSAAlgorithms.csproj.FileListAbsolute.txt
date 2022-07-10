@@ -1,0 +1,10 @@
+C:\Users\Janidu\Source\Repos\cccu-uk\morse-code-and-rsa-algorithms-JaniduR1\MorseRSAAlgorithms\bin\Debug\MorseRSAAlgorithms.exe.config
+C:\Users\Janidu\Source\Repos\cccu-uk\morse-code-and-rsa-algorithms-JaniduR1\MorseRSAAlgorithms\bin\Debug\MorseRSAAlgorithms.exe
+C:\Users\Janidu\Source\Repos\cccu-uk\morse-code-and-rsa-algorithms-JaniduR1\MorseRSAAlgorithms\bin\Debug\MorseRSAAlgorithms.pdb
+C:\Users\Janidu\Source\Repos\cccu-uk\morse-code-and-rsa-algorithms-JaniduR1\MorseRSAAlgorithms\obj\Debug\MorseRSAAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Janidu\Source\Repos\cccu-uk\morse-code-and-rsa-algorithms-JaniduR1\MorseRSAAlgorithms\obj\Debug\MorseRSAAlgorithms.MainForm.resources
+C:\Users\Janidu\Source\Repos\cccu-uk\morse-code-and-rsa-algorithms-JaniduR1\MorseRSAAlgorithms\obj\Debug\MorseRSAAlgorithms.Properties.Resources.resources
+C:\Users\Janidu\Source\Repos\cccu-uk\morse-code-and-rsa-algorithms-JaniduR1\MorseRSAAlgorithms\obj\Debug\MorseRSAAlgorithms.csproj.GenerateResource.cache
+C:\Users\Janidu\Source\Repos\cccu-uk\morse-code-and-rsa-algorithms-JaniduR1\MorseRSAAlgorithms\obj\Debug\MorseRSAAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Janidu\Source\Repos\cccu-uk\morse-code-and-rsa-algorithms-JaniduR1\MorseRSAAlgorithms\obj\Debug\MorseRSAAlgorithms.exe
+C:\Users\Janidu\Source\Repos\cccu-uk\morse-code-and-rsa-algorithms-JaniduR1\MorseRSAAlgorithms\obj\Debug\MorseRSAAlgorithms.pdb
